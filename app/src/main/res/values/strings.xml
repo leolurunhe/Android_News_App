@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="title_home">NewsApp</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="news_image">News_Image</string>
+    <string name="section">Section</string>
+    <string name="date">Date</string>
+    <string name="main">Main</string>
+    <string name="view_full_article">View Full Article</string>
+    <string name="title">title</string>
+    <string name="fetching_news">Fetching News</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="temperature">N/A</string>
+    <string name="weather">Weather</string>
+    <string name="bookmark">bookmark</string>
+    <string name="search">Search</string>
+    <string name="autoSuggestUrl">https://leo1.cognitiveservices.azure.com/bing/v7.0/suggestions?q=</string>
+    <string name="bingAutoSuggestKey">bb7176baabd945aaacabb06e566313ce</string>
+    <string name="homePageUrl">http://ec2-54-89-99-60.compute-1.amazonaws.com:4000/api/homeGuardian</string>
+    <string name="detailPageUrl">http://ec2-54-89-99-60.compute-1.amazonaws.com:4000/api/detail?id=</string>
+    <string name="home_nav">Home</string>
+    <string name="twitterShareUrl">https://twitter.com/intent/tweet</string>
+    <string name="search_results">Search results for </string>
+    <string name="headlines">Headlines</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="worldPageUrl">http://ec2-54-89-99-60.compute-1.amazonaws.com:4000/api/GuardianWorld</string>
+    <string name="searchUrl">http://ec2-54-89-99-60.compute-1.amazonaws.com:4000/api/search?keyword=</string>
+    <string name="politicsPageRul">http://ec2-54-89-99-60.compute-1.amazonaws.com:4000/api/GuardianPolitics</string>
+    <string name="businessPageUrl">http://ec2-54-89-99-60.compute-1.amazonaws.com:4000/api/GuardianBusiness</string>
+    <string name="sportsPageUrl">http://ec2-54-89-99-60.compute-1.amazonaws.com:4000/api/GuardianSports</string>
+    <string name="techPageUrl">http://ec2-54-89-99-60.compute-1.amazonaws.com:4000/api/GuardianTechnology</string>
+    <string name="sciencePageUrl">http://ec2-54-89-99-60.compute-1.amazonaws.com:4000/api/GuardianScience</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="no_bookmarked_articles">No Bookmarked Articles</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="trending">Trending</string>
+    <string name="app_label">trending_search</string>
+    <string name="search_hint">Coronavirus</string>
+    <string name="coronaVirus">CoronaVirus</string>
+    <string name="enter_search_term">Enter Search Term:</string>
+    <!-- Strings used for fragments for navigation -->
+
+</resources>
