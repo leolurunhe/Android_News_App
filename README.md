@@ -12,9 +12,11 @@
 
 ### Splash Screen
 
+
 <img src="https://github.com/leolurunhe/Android_News_App/blob/master/screenshots/splash.png" width=50% height=50% align=center/>
 
 ### Location Permssion
+
 
 <img src="https://github.com/leolurunhe/Android_News_App/blob/master/screenshots/permission.png" width=50% height=50% align=center/>
 
@@ -27,6 +29,7 @@
 <img src="https://github.com/leolurunhe/Android_News_App/blob/master/screenshots/home.png" width=50% height=50% align=center/>
 
 ### Headlines
+
 
 <img src="https://github.com/leolurunhe/Android_News_App/blob/master/screenshots/headlines.png" width=50% height=50% align=center/>
 
@@ -47,6 +50,7 @@
 
 ### Search
 
+
 <img src="https://github.com/leolurunhe/Android_News_App/blob/master/screenshots/search.png" width=50% height=50% align=center/>
 
 <img src="https://github.com/leolurunhe/Android_News_App/blob/master/screenshots/search_res.png" width=50% height=50% align=center/>
@@ -60,6 +64,7 @@
 <img src="https://github.com/leolurunhe/Android_News_App/blob/master/screenshots/details2.png" width=50% height=50% align=center/>
 
 ### Long Click
+
 
 <img src="https://github.com/leolurunhe/Android_News_App/blob/master/screenshots/long_click.png" width=50% height=50% align=center/>
 
