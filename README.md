@@ -11,7 +11,8 @@
 ## App Overview
 
 ### Splash Screen
-![](./screenshots/splash.png)
+
+<img src="https://github.com/leolurunhe/Android_News_App/screenshots/splash.png" width="200" height="200"/>
 
 ### Location Permssion
 
