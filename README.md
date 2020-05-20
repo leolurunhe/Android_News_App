@@ -12,7 +12,7 @@
 
 ### Splash Screen
 
-<img src="https://github.com/leolurunhe/Android_News_App/blob/master/screenshots/splash.png" style="margin-left:auto; margin-right:auto; width: 50%"/>
+<img src="https://github.com/leolurunhe/Android_News_App/blob/master/screenshots/splash.png" style="margin-left:auto; margin-right:auto; width: 400px; height: 500px"/>
 
 ### Location Permssion
 
