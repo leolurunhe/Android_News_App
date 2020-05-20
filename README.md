@@ -16,46 +16,52 @@
 
 ### Location Permssion
 
-![](./screenshots/permission.png)
+<img src="https://github.com/leolurunhe/Android_News_App/blob/master/screenshots/permission.png" width=50% height=50% align=center/>
 
-![](./screenshots/permission_granted.png)
+
+<img src="https://github.com/leolurunhe/Android_News_App/blob/master/screenshots/permission_granted.png" width=50% height=50% align=center/>
 
 ### Home
 
-![](./screenshots/home.png)
+
+<img src="https://github.com/leolurunhe/Android_News_App/blob/master/screenshots/home.png" width=50% height=50% align=center/>
 
 ### Headlines
 
-![](./screenshots/headlines.png)
+<img src="https://github.com/leolurunhe/Android_News_App/blob/master/screenshots/headlines.png" width=50% height=50% align=center/>
 
 ### Trending
 
-![](./screenshots/trending.png)
+
+<img src="https://github.com/leolurunhe/Android_News_App/blob/master/screenshots/trending.png" width=50% height=50% align=center/>
 
 ### Bookmarks
 
-![](./screenshots/bookmarks.png)
 
-![](./screenshots/bookmark_btn1.png)
+<img src="https://github.com/leolurunhe/Android_News_App/blob/master/screenshots/bookmarks.png" width=50% height=50% align=center/>
 
-![](./screenshots/bookmark_btn2.png)
+
+<img src="https://github.com/leolurunhe/Android_News_App/blob/master/screenshots/bookmark_btn1.png" width=50% height=50% align=center/>
+
+<img src="https://github.com/leolurunhe/Android_News_App/blob/master/screenshots/bookmark_btn2.png" width=50% height=50% align=center/>
 
 ### Search
 
-![](./screenshots/search.png)
+<img src="https://github.com/leolurunhe/Android_News_App/blob/master/screenshots/search.png" width=50% height=50% align=center/>
 
-![](./screenshots/search_res.png)
+<img src="https://github.com/leolurunhe/Android_News_App/blob/master/screenshots/search_res.png" width=50% height=50% align=center/>
 
 ### Deatils
 
-![](./screenshots/details.png)
 
-![](./screenshots/details2.png)
+<img src="https://github.com/leolurunhe/Android_News_App/blob/master/screenshots/details.png" width=50% height=50% align=center/>
+
+
+<img src="https://github.com/leolurunhe/Android_News_App/blob/master/screenshots/details2.png" width=50% height=50% align=center/>
 
 ### Long Click
 
-![](./screenshots/long_click.png)
-
+<img src="https://github.com/leolurunhe/Android_News_App/blob/master/screenshots/long_click.png" width=50% height=50% align=center/>
 
 
 
